@@ -1,0 +1,112 @@
+/* Instructions Game */
+a {
+  text-decoration: none;
+  font-family: Raleway, sans-serif;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin: 0 20px;
+  text-transform: uppercase;
+  border-bottom: 2px solid transparent;
+}
+a:hover {
+  border-bottom: 2px solid blue;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+.copyright {
+	color:white;
+	float: left;
+}
+footer {
+  text-transform: uppercase;
+  padding: 0 20px;
+  background-color: #0d2c40;
+  color: white;
+  font-size: 14px;
+  letter-spacing: .08em;
+  font-weight: 500;
+}
+
+.message {
+	color:white;
+	float: right;
+}
+
+/* Memory Game */
+h1 {
+  font-family: Raleway, sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+/* Instructions */
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  color: #0d2c40;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+header {
+  background-color: #f15b31;
+  color: #ffffff;
+  padding: 30px 20px;
+}
+
+img {
+  margin: 40px 8px;	
+}
+
+main {
+  width: 850px;
+  margin: 35px auto;	
+}
+
+.name {
+  color: #f15b31;
+  font-weight: 700;
+}
+nav {
+	background-color: #0aa6b3;
+	color: #ffffff;
+	padding: 20px;
+}
+nav:hover {
+  background-color: #aaaaaa;
+}
+
+/* The instructions text */
+p {
+  font-family: "Droid Serif", serif;
+  line-height: 26px;
+  font-size: 16px;
+  color: #000000;
+}
+
+
+/*
+p:first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+*/
