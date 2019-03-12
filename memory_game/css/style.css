@@ -27,10 +27,12 @@ clear: both;
 height: 0;
 font-size: 0;
 }
+
 .copyright {
 	color:white;
 	float: left;
 }
+
 footer {
   text-transform: uppercase;
   padding: 0 20px;
@@ -86,11 +88,13 @@ main {
   color: #f15b31;
   font-weight: 700;
 }
+
 nav {
 	background-color: #0aa6b3;
 	color: #ffffff;
 	padding: 20px;
 }
+
 nav:hover {
   background-color: #aaaaaa;
 }
