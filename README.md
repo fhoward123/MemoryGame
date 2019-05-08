@@ -1,1 +1,1 @@
-# sei-fundamentals-memorygame
+# Memory Game
